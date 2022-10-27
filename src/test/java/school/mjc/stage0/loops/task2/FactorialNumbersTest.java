@@ -13,7 +13,7 @@ class FactorialNumbersTest extends BaseIOTest {
 
         assertOutEquals(
                 "1\n" +
-                "1\n" +
+//                "1\n" +
                 "2\n" +
                 "6\n" +
                 "24\n" +
